@@ -1,0 +1,1089 @@
+{
+  "CREATURE_88819587": {
+    "src": "/generated-assets/creature_88819587-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Baby Dragon",
+    "recipe": {
+      "prompt": "Cut out the creature exactly as painted. Keep the monster's every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around the creature with flat chroma-key green. Keep the whole creature including wings, tail, claws and anything it holds or wears.",
+      "refs": [
+        "public/cards/art/88819587.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b05785ce119284961757fc5"
+      }
+    }
+  },
+  "CREATURE_64428736": {
+    "src": "/generated-assets/creature_64428736-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Alligator's Sword",
+    "recipe": {
+      "prompt": "Cut out the creature exactly as painted. Keep the monster's every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around the creature with flat chroma-key green. Keep the whole creature including its sword, armour, tail and anything it holds or wears.",
+      "refs": [
+        "public/cards/art/64428736.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b05785e77f580000af68649"
+      }
+    }
+  },
+  "CREATURE_48305365": {
+    "src": "/generated-assets/creature_48305365-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Axe Raider",
+    "recipe": {
+      "prompt": "Cut out the creature exactly as painted. Keep the warrior's every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around the figure with flat chroma-key green. Keep the whole figure including the axe, armour and anything it holds or wears.",
+      "refs": [
+        "public/cards/art/48305365.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b057861ab451d3860132e8a"
+      }
+    }
+  },
+  "CREATURE_60862676": {
+    "src": "/generated-assets/creature_60862676-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Flame Cerebrus",
+    "recipe": {
+      "prompt": "Cut out the creature exactly as painted. Keep the monster's every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around the creature with flat chroma-key green. Keep the whole creature including its flames, limbs and tail.",
+      "refs": [
+        "public/cards/art/60862676.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578637b61f07fcf16e908"
+      }
+    }
+  },
+  "CREATURE_10992251": {
+    "src": "/generated-assets/creature_10992251-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Gradius",
+    "recipe": {
+      "prompt": "Cut out the spaceship exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery (space, stars) behind and around the ship with flat chroma-key green. Keep the whole ship.",
+      "refs": [
+        "public/cards/art/10992251.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b05786d77f580000af686d5"
+      }
+    }
+  },
+  "CREATURE_5434080": {
+    "src": "/generated-assets/creature_5434080-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Headless Knight",
+    "recipe": {
+      "prompt": "Cut out the headless knight exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around the figure with flat chroma-key green. Keep the whole figure including armour, cape and weapon.",
+      "refs": [
+        "public/cards/art/5434080.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b057870ab451d3860132eef"
+      }
+    }
+  },
+  "CREATURE_11549357": {
+    "src": "/generated-assets/creature_11549357-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Gamma the Magnet Warrior",
+    "recipe": {
+      "prompt": "Cut out the magnet warrior exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole figure including all armour parts.",
+      "refs": [
+        "public/cards/art/11549357.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b057868c757d65766103898"
+      }
+    }
+  },
+  "CREATURE_86281779": {
+    "src": "/generated-assets/creature_86281779-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Gadget Soldier",
+    "recipe": {
+      "prompt": "Cut out the robot exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole machine including any weapons and parts.",
+      "refs": [
+        "public/cards/art/86281779.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578667b61f07fcf16e914"
+      }
+    }
+  },
+  "CREATURE_69140098": {
+    "src": "/generated-assets/creature_69140098-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Gemini Elf",
+    "recipe": {
+      "prompt": "Cut out both elf figures exactly as painted. Keep their every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around them with flat chroma-key green. Keep both figures whole including hair and clothing.",
+      "refs": [
+        "public/cards/art/69140098.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b05786ba3ba40b67e1f94bb"
+      }
+    }
+  },
+  "CREATURE_4042268": {
+    "src": "/generated-assets/creature_4042268-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Island Turtle",
+    "recipe": {
+      "prompt": "Cut out the giant turtle (with the island on its back) exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the sea and sky background around it with flat chroma-key green. Keep the whole creature including the island, trees and shell.",
+      "refs": [
+        "public/cards/art/4042268.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b05789bab451d3860133062"
+      }
+    }
+  },
+  "CREATURE_3797883": {
+    "src": "/generated-assets/creature_3797883-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Slot Machine",
+    "recipe": {
+      "prompt": "Cut out the slot machine robot exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole machine including arms and lever.",
+      "refs": [
+        "public/cards/art/3797883.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b05789da3ba40b67e1f9699"
+      }
+    }
+  },
+  "CREATURE_49791927": {
+    "src": "/generated-assets/creature_49791927-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Tiger Axe",
+    "recipe": {
+      "prompt": "Cut out the tiger warrior exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole figure including the axe, shield and armour.",
+      "refs": [
+        "public/cards/art/49791927.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578a2a3ba40b67e1f96c7"
+      }
+    }
+  },
+  "CREATURE_68049471": {
+    "src": "/generated-assets/creature_68049471-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — The Gross Ghost of Fled Dreams",
+    "recipe": {
+      "prompt": "Cut out the ghost creature exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole ghost including wisps and any sleeper it carries.",
+      "refs": [
+        "public/cards/art/68049471.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578a07b61f07fcf16eb22"
+      }
+    }
+  },
+  "CREATURE_93920745": {
+    "src": "/generated-assets/creature_93920745-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Penguin Soldier",
+    "recipe": {
+      "prompt": "Cut out the penguin soldier exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole figure including weapons and armour.",
+      "refs": [
+        "public/cards/art/93920745.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578afc757d65766103b30"
+      }
+    }
+  },
+  "CREATURE_78193831": {
+    "src": "/generated-assets/creature_78193831-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Buster Blader",
+    "recipe": {
+      "prompt": "Cut out the armoured swordsman exactly as painted. Keep his every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around him with flat chroma-key green. Keep the whole figure including the giant sword and armour.",
+      "refs": [
+        "public/cards/art/78193831.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578a5c757d65766103ae4"
+      }
+    }
+  },
+  "CREATURE_79106360": {
+    "src": "/generated-assets/creature_79106360-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Morphing Jar #2",
+    "recipe": {
+      "prompt": "Cut out the jar creature exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole jar and any eyes, tongue or face.",
+      "refs": [
+        "public/cards/art/79106360.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578aac757d65766103b09"
+      }
+    }
+  },
+  "CREATURE_78658564": {
+    "src": "/generated-assets/creature_78658564-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Goblin Attack Force",
+    "recipe": {
+      "prompt": "Cut out the goblin warriors exactly as painted. Keep their every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around them with flat chroma-key green. Keep every goblin whole including clubs and armour.",
+      "refs": [
+        "public/cards/art/78658564.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578a7c757d65766103af7"
+      }
+    }
+  },
+  "CREATURE_22567609": {
+    "src": "/generated-assets/creature_22567609-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Nimble Momonga",
+    "recipe": {
+      "prompt": "Cut out the flying squirrel exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole animal including tail and gliding membrane.",
+      "refs": [
+        "public/cards/art/22567609.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578acab451d38601330f1"
+      }
+    }
+  },
+  "CREATURE_26202165": {
+    "src": "/generated-assets/creature_26202165-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Sangan",
+    "recipe": {
+      "prompt": "Cut out the three-eyed fiend creature exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole creature including fur, horns and claws.",
+      "refs": [
+        "public/cards/art/26202165.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578dcc757d65766103c82"
+      }
+    }
+  },
+  "CREATURE_78010363": {
+    "src": "/generated-assets/creature_78010363-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Witch of the Black Forest",
+    "recipe": {
+      "prompt": "Cut out the witch exactly as painted. Keep her every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery (forest) behind and around her with flat chroma-key green. Keep the whole figure including robes, hair and anything she holds.",
+      "refs": [
+        "public/cards/art/78010363.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578df77f580000af68aa2"
+      }
+    }
+  },
+  "CREATURE_88472456": {
+    "src": "/generated-assets/creature_88472456-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Zombyra the Dark",
+    "recipe": {
+      "prompt": "Cut out the dark warrior exactly as painted. Keep his every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around him with flat chroma-key green. Keep the whole figure including cape, claws and armour.",
+      "refs": [
+        "public/cards/art/88472456.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578e1a3ba40b67e1f9895"
+      }
+    }
+  },
+  "CREATURE_3366982": {
+    "src": "/generated-assets/creature_3366982-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Alligator's Sword Dragon",
+    "recipe": {
+      "prompt": "Cut out the dragon exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole creature including wings, tail, claws and armour.",
+      "refs": [
+        "public/cards/art/3366982.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578e4ab451d38601332cf"
+      }
+    }
+  },
+  "CREATURE_83011278": {
+    "src": "/generated-assets/creature_83011278-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Mystic Tomato",
+    "recipe": {
+      "prompt": "Cut out the tomato monster exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole creature including leaves and face.",
+      "refs": [
+        "public/cards/art/83011278.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578f0e1192849617584fb"
+      }
+    }
+  },
+  "CREATURE_17985575": {
+    "src": "/generated-assets/creature_17985575-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Lord of D.",
+    "recipe": {
+      "prompt": "Cut out the dragon-armoured sorcerer exactly as painted. Keep his every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around him with flat chroma-key green. Keep the whole figure including cape and armour.",
+      "refs": [
+        "public/cards/art/17985575.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578ed7b61f07fcf16ed69"
+      }
+    }
+  },
+  "CREATURE_74677427": {
+    "src": "/generated-assets/creature_74677427-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Red-Eyes Black Dragon",
+    "recipe": {
+      "prompt": "Cut out the black dragon exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole creature including wings, tail and claws.",
+      "refs": [
+        "public/cards/art/74677427.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578e97b61f07fcf16ed49"
+      }
+    }
+  },
+  "CREATURE_70781052": {
+    "src": "/generated-assets/creature_70781052-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Summoned Skull",
+    "recipe": {
+      "prompt": "Cut out the skeletal fiend exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole creature including wings, horns, claws and any lightning around its body.",
+      "refs": [
+        "public/cards/art/70781052.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578eb7b61f07fcf16ed59"
+      }
+    }
+  },
+  "CREATURE_71625222": {
+    "src": "/generated-assets/creature_71625222-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Time Wizard",
+    "recipe": {
+      "prompt": "Cut out the clock wizard exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole figure including the clock body, staff and limbs.",
+      "refs": [
+        "public/cards/art/71625222.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0578e6ab451d38601332e2"
+      }
+    }
+  },
+  "CREATURE_65240384": {
+    "src": "/generated-assets/creature_65240384-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Big Shield Gardna",
+    "recipe": {
+      "prompt": "Cut out the warrior with the giant shield exactly as painted. Keep every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around him with flat chroma-key green. Keep the whole figure including the large shield.",
+      "refs": [
+        "public/cards/art/65240384.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b057921ab451d38601334c0"
+      }
+    }
+  },
+  "CREATURE_11901678": {
+    "src": "/generated-assets/creature_11901678-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Black Skull Dragon",
+    "recipe": {
+      "prompt": "Cut out the skull dragon exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole creature including wings, skull rider, tail and claws.",
+      "refs": [
+        "public/cards/art/11901678.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b057926c757d65766103f0b"
+      }
+    }
+  },
+  "CREATURE_423705": {
+    "src": "/generated-assets/creature_423705-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Gearfried the Iron Knight",
+    "recipe": {
+      "prompt": "Cut out the iron knight exactly as painted. Keep his every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around him with flat chroma-key green. Keep the whole figure including all armour.",
+      "refs": [
+        "public/cards/art/423705.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b057928e119284961758705"
+      }
+    }
+  },
+  "CREATURE_41462083": {
+    "src": "/generated-assets/creature_41462083-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Thousand Dragon",
+    "recipe": {
+      "prompt": "Cut out the ancient dragon exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole creature including wings, beard, tail and claws.",
+      "refs": [
+        "public/cards/art/41462083.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b057923a3ba40b67e1f9ac7"
+      }
+    }
+  },
+  "CREATURE_3573512": {
+    "src": "/generated-assets/creature_3573512-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Swordsman of Landstar",
+    "recipe": {
+      "prompt": "Cut out the small swordsman exactly as painted. Keep every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around him with flat chroma-key green. Keep the whole figure including sword, shield and helmet.",
+      "refs": [
+        "public/cards/art/3573512.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0579347b61f07fcf16efe4"
+      }
+    }
+  },
+  "CREATURE_44287299": {
+    "src": "/generated-assets/creature_44287299-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Masaki the Legendary Swordsman",
+    "recipe": {
+      "prompt": "Cut out the swordsman exactly as painted. Keep every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around him with flat chroma-key green. Keep the whole figure including the sword and armour.",
+      "refs": [
+        "public/cards/art/44287299.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b057932e119284961758752"
+      }
+    }
+  },
+  "CREATURE_34460851": {
+    "src": "/generated-assets/creature_34460851-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Flame Manipulator",
+    "recipe": {
+      "prompt": "Cut out the fire sorcerer exactly as painted. Keep every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around him with flat chroma-key green. Keep the whole figure including robes and the flames he conjures.",
+      "refs": [
+        "public/cards/art/34460851.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b057930ab451d386013353c"
+      }
+    }
+  },
+  "CREATURE_30860696": {
+    "src": "/generated-assets/creature_30860696-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Rocket Warrior",
+    "recipe": {
+      "prompt": "Cut out the rocket warrior exactly as painted. Keep every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole figure including rocket parts and any exhaust flame attached to it.",
+      "refs": [
+        "public/cards/art/30860696.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b05792b7b61f07fcf16efac"
+      }
+    }
+  },
+  "CREATURE_42035044": {
+    "src": "/generated-assets/creature_42035044-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Panther Warrior",
+    "recipe": {
+      "prompt": "Cut out the panther warrior exactly as painted. Keep every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole figure including the sword, shield and cape.",
+      "refs": [
+        "public/cards/art/42035044.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b05792de11928496175872b"
+      }
+    }
+  },
+  "CREATURE_97017120": {
+    "src": "/generated-assets/creature_97017120-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Giant Rat",
+    "recipe": {
+      "prompt": "Cut out the giant rat exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole animal including tail and whiskers.",
+      "refs": [
+        "public/cards/art/97017120.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b05796aa3ba40b67e1f9d06"
+      }
+    }
+  },
+  "CREATURE_45231178": {
+    "src": "/generated-assets/creature_45231178-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Flame Swordsman",
+    "recipe": {
+      "prompt": "Cut out the flame swordsman exactly as painted. Keep every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around him with flat chroma-key green. Keep the whole figure including the flaming sword, armour and flames attached to him.",
+      "refs": [
+        "public/cards/art/45231178.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b05796cab451d3860133755"
+      }
+    }
+  },
+  "CREATURE_55550921": {
+    "src": "/generated-assets/creature_55550921-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Battle Warrior",
+    "recipe": {
+      "prompt": "Cut out the warrior exactly as painted. Keep every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around him with flat chroma-key green. Keep the whole figure including claws and armour.",
+      "refs": [
+        "public/cards/art/55550921.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b05796fe119284961758946"
+      }
+    }
+  },
+  "CREATURE_5388481": {
+    "src": "/generated-assets/creature_5388481-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Darkfire Soldier #1",
+    "recipe": {
+      "prompt": "Cut out the fire soldier exactly as painted. Keep every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around him with flat chroma-key green. Keep the whole figure including weapons, armour and flames attached to him.",
+      "refs": [
+        "public/cards/art/5388481.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b05797177f580000af68f58"
+      }
+    }
+  },
+  "CREATURE_10538007": {
+    "src": "/generated-assets/creature_10538007-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Leogun",
+    "recipe": {
+      "prompt": "Cut out the lion beast exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole animal including mane, claws and tail.",
+      "refs": [
+        "public/cards/art/10538007.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b05797d7b61f07fcf16f23f"
+      }
+    }
+  },
+  "CREATURE_67532912": {
+    "src": "/generated-assets/creature_67532912-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Science Soldier",
+    "recipe": {
+      "prompt": "Cut out the soldier exactly as painted. Keep every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around him with flat chroma-key green. Keep the whole figure including the gun and gear.",
+      "refs": [
+        "public/cards/art/67532912.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b057973e11928496175897b"
+      }
+    }
+  },
+  "CREATURE_7892180": {
+    "src": "/generated-assets/creature_7892180-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Psychic Kappa",
+    "recipe": {
+      "prompt": "Cut out the kappa creature exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole creature including shell and hands.",
+      "refs": [
+        "public/cards/art/7892180.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b05797be1192849617589a8"
+      }
+    }
+  },
+  "CREATURE_2311603": {
+    "src": "/generated-assets/creature_2311603-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Overdrive",
+    "recipe": {
+      "prompt": "Cut out the armoured vehicle exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole vehicle including guns and wheels.",
+      "refs": [
+        "public/cards/art/2311603.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b057976a3ba40b67e1f9d73"
+      }
+    }
+  },
+  "CREATURE_66927994": {
+    "src": "/generated-assets/creature_66927994-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Oni Tank T-34",
+    "recipe": {
+      "prompt": "Cut out the demon tank exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole tank including the face, horns, cannon and treads.",
+      "refs": [
+        "public/cards/art/66927994.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b05797877f580000af68faf"
+      }
+    }
+  },
+  "CREATURE_49888191": {
+    "src": "/generated-assets/creature_49888191-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Garnecia Elefantis",
+    "recipe": {
+      "prompt": "Cut out the elephant warrior exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole figure including tusks, weapon and armour.",
+      "refs": [
+        "public/cards/art/49888191.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0579ab77f580000af6913a"
+      }
+    }
+  },
+  "CREATURE_77585513": {
+    "src": "/generated-assets/creature_77585513-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Jinzo",
+    "recipe": {
+      "prompt": "Cut out the android exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole figure including coat and arms.",
+      "refs": [
+        "public/cards/art/77585513.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0579adab451d386013395c"
+      }
+    }
+  },
+  "CREATURE_73915052": {
+    "src": "/generated-assets/creature_73915052-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Sheep Token",
+    "recipe": {
+      "prompt": "Cut out the sheep exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around the sheep with flat chroma-key green. If there are several sheep, keep them all whole.",
+      "refs": [
+        "public/cards/art/73915052.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0579b2ab451d386013398c"
+      }
+    }
+  },
+  "CREATURE_64335805": {
+    "src": "/generated-assets/creature_64335805-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Red-Eyes Black Metal Dragon",
+    "recipe": {
+      "prompt": "Cut out the metal dragon exactly as painted. Keep its every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background scenery behind and around it with flat chroma-key green. Keep the whole creature including wings, tail and claws.",
+      "refs": [
+        "public/cards/art/64335805.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0579b0a3ba40b67e1f9eee"
+      }
+    }
+  },
+  "CREATURE_44519536": {
+    "src": "/generated-assets/creature_44519536-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Left Leg of the Forbidden One",
+    "recipe": {
+      "prompt": "Cut out the sealed leg and its chains exactly as painted. Keep every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background around the leg with flat chroma-key green.",
+      "refs": [
+        "public/cards/art/44519536.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0579bc7b61f07fcf16f417"
+      }
+    }
+  },
+  "CREATURE_70903634": {
+    "src": "/generated-assets/creature_70903634-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Right Arm of the Forbidden One",
+    "recipe": {
+      "prompt": "Cut out the sealed arm and its chains exactly as painted. Keep every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background around the arm with flat chroma-key green.",
+      "refs": [
+        "public/cards/art/70903634.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0579ba77f580000af691cb"
+      }
+    }
+  },
+  "CREATURE_7902349": {
+    "src": "/generated-assets/creature_7902349-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Left Arm of the Forbidden One",
+    "recipe": {
+      "prompt": "Cut out the sealed arm and its chains exactly as painted. Keep every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background around the arm with flat chroma-key green.",
+      "refs": [
+        "public/cards/art/7902349.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0579b7a3ba40b67e1f9f3b"
+      }
+    }
+  },
+  "CREATURE_8124921": {
+    "src": "/generated-assets/creature_8124921-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Right Leg of the Forbidden One",
+    "recipe": {
+      "prompt": "Cut out the sealed leg and its chains exactly as painted. Keep every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the background around the leg with flat chroma-key green.",
+      "refs": [
+        "public/cards/art/8124921.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0579beab451d38601339de"
+      }
+    }
+  },
+  "CREATURE_33396948": {
+    "src": "/generated-assets/creature_33396948-transparent.webp",
+    "kind": "image",
+    "label": "Creature mask — Exodia the Forbidden One",
+    "recipe": {
+      "prompt": "Cut out the sealed giant (head and chest emerging from the pentagram) exactly as painted. Keep every pixel, pose, position, size, colours, outline and shading identical to the input — do not redraw, restyle, re-pose, move, crop or add anything. Only replace the dark background around the figure and its chains with flat chroma-key green. Keep the figure, the glowing seal and the chains.",
+      "refs": [
+        "public/cards/art/33396948.jpg"
+      ],
+      "playabl": {
+        "tool": "image_gen_edit",
+        "kind": "sprite",
+        "keptSourceSize": "624x624",
+        "removeBackground": true,
+        "assetId": "6b0579b5c757d6576610436e"
+      }
+    }
+  },
+  "ARENA_BG": {
+    "src": "/generated-assets/arena_bg.webp",
+    "kind": "image",
+    "label": "Sodium Crossroads arena",
+    "recipe": {
+      "prompt": "Use case: full-screen portrait backdrop for a card-duel field on a phone.\nSubject: a city street crossroads at night seen from almost directly above. Cracked dark asphalt with fine aggregate texture, tar-sealed crack lines, a round manhole cover, faded crosswalk stripes running across the very top edge and the very bottom edge, a concrete curb and sidewalk corner in the top-right with the base of a sodium streetlamp pole, faint spray-paint graffiti tags on the curb at the left and right edges only.\nLighting: one warm amber sodium-lamp pool of light centred slightly above the middle of the image, falling off into deep teal-blue shadows toward all edges.\nStyle: painted 2D anime card-game background, soft brush texture, matches the reference palette (charcoal asphalt, amber light, teal shadows).\nUsage contract: the central 80% of width and the area from 12% to 88% of height must stay calm, plain asphalt with only subtle cracks — game code draws chalk zones, cards and monsters there. Shown as-is, not tiled.\nAvoid: chalk lines, rectangles, cards, characters, monsters, cars, people, text, logos, UI, letters in the graffiti that read as words.",
+      "refs": [
+        "https://cdn.playabl.ai/ai-reference-images/6b0574a9a3ba40b67e1f7d8a/af_1795520053593_vxeg222.png"
+      ],
+      "playabl": {
+        "tool": "image_gen",
+        "kind": "backdrop",
+        "size": "1024x1792",
+        "removeBackground": false,
+        "assetId": "6b057a10e119284961758de4"
+      }
+    }
+  },
+  "CARD_BACK": {
+    "src": "/generated-assets/card_back.webp",
+    "kind": "image",
+    "label": "Card back",
+    "recipe": {
+      "prompt": "Use case: the back of a trading card, shown on every face-down card in a card-duel game, from 40px to 300px wide.\nSubject: an original card-back design filling the whole canvas edge to edge: deep crimson field with a thin bright gold outer border and a second inset gold line, a central gold oval medallion containing a stylised eight-point compass star over a swirling dark-red vortex, small gold corner ornaments.\nStyle: glossy painted trading-card finish, subtle embossed gold, rich reds, symmetrical, reads clearly when tiny.\nAvoid: any text, logos, letters, brand marks, eyes, faces, transparent margins.",
+      "playabl": {
+        "tool": "image_gen",
+        "kind": "card",
+        "size": "688x1008",
+        "removeBackground": false,
+        "assetId": "6b057a147b61f07fcf16f6ac"
+      }
+    }
+  },
+  "RIVAL_PORTRAITS": {
+    "src": "/generated-assets/rival_portraits-transparent.webp",
+    "kind": "image",
+    "label": "Rival duelist portraits",
+    "recipe": {
+      "prompt": "Use case: bust portraits of the game's opponent, an original street card-duelist character, shown in a small square HUD badge (64-120px) so the face must read when small.\nCharacter (same person in every cell): a lanky teenage street duelist with messy sandy-brown hair under a backwards red cap, freckles, a sharp grin with one chipped tooth, a dark-teal hooded jacket with an amber stripe over a white tee, a card-deck holster strap on the shoulder.\nParts: confident = cocky smirk, eyebrow raised, holding one card up beside his face; rattled = wide eyes, sweat drop, teeth gritted, leaning back; fired_up = shouting with a fist raised, eyes blazing, cap pushed back; defeated = head bowed, eyes shut, cap pulled down, small sad frown.\nStyle: 2D anime card-game illustration, clean dark outlines, cel shading, warm amber rim light from the right and teal shadow on the left, matching the reference palette.\nComposition: one centred head-and-shoulders bust per cell, same head size and shoulder line in every cell, facing the viewer.\nAvoid: text, speech bubbles, background scenery, any existing anime character's likeness, blond spiky hair, green jacket.",
+      "refs": [
+        "https://cdn.playabl.ai/ai-reference-images/6b0574a9a3ba40b67e1f7d8a/af_1795520053593_vxeg222.png"
+      ],
+      "playabl": {
+        "tool": "image_gen",
+        "kind": "atlas",
+        "parts": [
+          "confident",
+          "rattled",
+          "fired_up",
+          "defeated"
+        ],
+        "removeBackground": true,
+        "assetId": "6b057a1c7b61f07fcf16f6d3"
+      }
+    }
+  },
+  "FX_ATLAS": {
+    "src": "/generated-assets/fx_atlas-transparent.webp",
+    "kind": "image",
+    "label": "Duel effect particles",
+    "recipe": {
+      "prompt": "Use case: particle sprites for a card-duel game; code spawns, scales, rotates, tints and fades many copies of each with additive blending over a dark street at night.\nParts: flame_puff = one round billowing fire puff, bright yellow core to orange-red rim; spark = a small four-point white-gold star spark; shard = one jagged glass-like crystal shard, pale cyan-white with a bright edge; smoke = one soft grey cloud puff with a few lobes; water_drop = one teardrop of clear blue water with a white highlight; energy_orb = a round glowing orb, white core, violet-blue rim; slash_arc = one crescent sword-slash streak, white core tapering to cyan tips; impact_star = a jagged comic-style impact burst, white-yellow centre with orange spikes; magic_circle = a flat circular spell sigil of thin glowing gold rings and runic ticks, seen straight on; shield_hex = a hexagonal energy shield plate, thin bright cyan outline with faint translucent fill; gear = a small bronze mechanical gear; chain_ring = a single iron chain link.\nStyle: crisp painted 2D game VFX, bold saturated colours, clean edges, no motion blur halos.\nComposition: one centred element per cell, filling most of the cell.\nAvoid: text, backgrounds, drop shadows, multiple items per cell.",
+      "playabl": {
+        "tool": "image_gen",
+        "kind": "atlas",
+        "parts": [
+          "flame_puff",
+          "spark",
+          "shard",
+          "smoke",
+          "water_drop",
+          "energy_orb",
+          "slash_arc",
+          "impact_star",
+          "magic_circle",
+          "shield_hex",
+          "gear",
+          "chain_ring"
+        ],
+        "removeBackground": true,
+        "assetId": "6b057a2377f580000af694e6"
+      }
+    }
+  },
+  "GAME_ICONS": {
+    "src": "/generated-assets/game_icons-transparent.webp",
+    "kind": "image",
+    "label": "Duel icons",
+    "recipe": {
+      "prompt": "Use case: small game icons for a card-duel HUD (24-48px), must read when tiny.\nParts: deck = a neat stack of three crimson-and-gold card backs; graveyard = a grey stone tombstone with a cracked top; fusion = a violet swirling vortex spiral; star = a bold five-point amber-gold star; sword = an upright steel sword with a gold hilt; shield = a round blue-steel shield with a gold rim; coin_heads = a gold coin showing a raised crown; coin_tails = the same gold coin showing a raised laurel; die = a white six-sided die in three-quarter view showing pips; life = a glowing amber heart gem; player_badge = an original faceless duelist silhouette bust in a dark-teal jacket against an amber circle; lock = a chunky gold padlock.\nStyle: glossy painted 2D game icons, dark outline, amber/gold and teal palette matching the reference.\nComposition: one centred icon per cell, same visual weight across cells.\nAvoid: text, numbers, backgrounds, letters.",
+      "refs": [
+        "https://cdn.playabl.ai/ai-reference-images/6b0574a9a3ba40b67e1f7d8a/af_1795520053593_vxeg222.png"
+      ],
+      "playabl": {
+        "tool": "image_gen",
+        "kind": "atlas",
+        "parts": [
+          "deck",
+          "graveyard",
+          "fusion",
+          "star",
+          "sword",
+          "shield",
+          "coin_heads",
+          "coin_tails",
+          "die",
+          "life",
+          "player_badge",
+          "lock"
+        ],
+        "removeBackground": true,
+        "assetId": "6b057a29a3ba40b67e1fa234"
+      }
+    }
+  }
+}

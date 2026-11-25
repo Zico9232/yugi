@@ -1,0 +1,57 @@
+{
+  "creatureMotion": {
+    "type": "number",
+    "value": 1,
+    "min": 0,
+    "max": 1.5,
+    "step": 0.05,
+    "name": "Creature motion",
+    "description": "How strongly the living monsters breathe, flap, sway and hover on the field.",
+    "group": "def:creature",
+    "index": 1
+  },
+  "cameraSway": {
+    "type": "number",
+    "value": 1,
+    "min": 0,
+    "max": 2,
+    "step": 0.1,
+    "name": "Camera drift",
+    "description": "Slow side-to-side drift of the view that gives the monsters depth against the street.",
+    "group": "def:arena",
+    "index": 1
+  },
+  "aiThinkTime": {
+    "type": "number",
+    "value": 0.5,
+    "min": 0.1,
+    "max": 1.5,
+    "step": 0.05,
+    "name": "Joey's thinking pause",
+    "description": "Seconds Joey waits before each move, so his plays are easy to follow.",
+    "group": "def:joey",
+    "index": 1
+  },
+  "masterVolume": {
+    "type": "number",
+    "value": 0.8,
+    "min": 0,
+    "max": 1,
+    "step": 0.05,
+    "name": "Volume",
+    "description": "Overall loudness of the duel.",
+    "group": "sound",
+    "index": 1
+  },
+  "musicVolume": {
+    "type": "number",
+    "value": 0.35,
+    "min": 0,
+    "max": 1,
+    "step": 0.05,
+    "name": "Music",
+    "description": "Loudness of the street-night groove under the duel.",
+    "group": "sound",
+    "index": 2
+  }
+}
