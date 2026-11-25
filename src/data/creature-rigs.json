@@ -1,0 +1,256 @@
+{
+ "_doc": "Per-creature overrides, edited through the Art Lab: profile (motion), floats, height (world units), anchors {head:{x,y}} in silhouette uv, approved (false = needs review, kept out of decks).",
+ "64428736": {
+  "name": "Alligator's Sword",
+  "approved": true
+ },
+ "48305365": {
+  "name": "Axe Raider",
+  "approved": true
+ },
+ "88819587": {
+  "name": "Baby Dragon",
+  "approved": true
+ },
+ "60862676": {
+  "name": "Flame Cerebrus",
+  "approved": true
+ },
+ "86281779": {
+  "name": "Gadget Soldier",
+  "approved": true
+ },
+ "11549357": {
+  "name": "Gamma the Magnet Warrior",
+  "approved": true
+ },
+ "69140098": {
+  "name": "Gemini Elf",
+  "approved": true,
+  "profile": "caster",
+  "floats": false
+ },
+ "10992251": {
+  "name": "Gradius",
+  "approved": true,
+  "profile": "machine",
+  "floats": true
+ },
+ "5434080": {
+  "name": "Headless Knight",
+  "approved": true
+ },
+ "4042268": {
+  "name": "Island Turtle",
+  "approved": true,
+  "profile": "aquatic"
+ },
+ "3797883": {
+  "name": "Slot Machine",
+  "approved": true,
+  "profile": "machine"
+ },
+ "68049471": {
+  "name": "The Gross Ghost of Fled Dreams",
+  "approved": true,
+  "profile": "fiend",
+  "floats": true
+ },
+ "49791927": {
+  "name": "Tiger Axe",
+  "approved": true
+ },
+ "78193831": {
+  "name": "Buster Blader",
+  "approved": true
+ },
+ "78658564": {
+  "name": "Goblin Attack Force",
+  "approved": true
+ },
+ "79106360": {
+  "name": "Morphing Jar #2",
+  "approved": true,
+  "profile": "small"
+ },
+ "22567609": {
+  "name": "Nimble Momonga",
+  "approved": true,
+  "profile": "small",
+  "floats": true
+ },
+ "93920745": {
+  "name": "Penguin Soldier",
+  "approved": true,
+  "profile": "small"
+ },
+ "26202165": {
+  "name": "Sangan",
+  "approved": true,
+  "profile": "small"
+ },
+ "78010363": {
+  "name": "Witch of the Black Forest",
+  "approved": true
+ },
+ "88472456": {
+  "name": "Zombyra the Dark",
+  "approved": true
+ },
+ "3366982": {
+  "name": "Alligator's Sword Dragon",
+  "approved": true
+ },
+ "71625222": {
+  "name": "Time Wizard",
+  "approved": true,
+  "profile": "caster",
+  "floats": true
+ },
+ "74677427": {
+  "name": "Red-Eyes Black Dragon",
+  "approved": true
+ },
+ "70781052": {
+  "name": "Summoned Skull",
+  "approved": true
+ },
+ "17985575": {
+  "name": "Lord of D.",
+  "approved": true,
+  "profile": "caster",
+  "floats": false
+ },
+ "83011278": {
+  "name": "Mystic Tomato",
+  "approved": true,
+  "profile": "small"
+ },
+ "65240384": {
+  "name": "Big Shield Gardna",
+  "approved": true,
+  "profile": "warrior"
+ },
+ "41462083": {
+  "name": "Thousand Dragon",
+  "approved": true
+ },
+ "11901678": {
+  "name": "Black Skull Dragon",
+  "approved": true
+ },
+ "423705": {
+  "name": "Gearfried the Iron Knight",
+  "approved": true
+ },
+ "30860696": {
+  "name": "Rocket Warrior",
+  "approved": true
+ },
+ "42035044": {
+  "name": "Panther Warrior",
+  "approved": true
+ },
+ "34460851": {
+  "name": "Flame Manipulator",
+  "approved": true
+ },
+ "44287299": {
+  "name": "Masaki the Legendary Swordsman",
+  "approved": true
+ },
+ "3573512": {
+  "name": "Swordsman of Landstar",
+  "approved": true
+ },
+ "97017120": {
+  "name": "Giant Rat",
+  "approved": true
+ },
+ "45231178": {
+  "name": "Flame Swordsman",
+  "approved": true
+ },
+ "55550921": {
+  "name": "Battle Warrior",
+  "approved": true
+ },
+ "5388481": {
+  "name": "Darkfire Soldier #1",
+  "approved": true
+ },
+ "67532912": {
+  "name": "Science Soldier",
+  "approved": true
+ },
+ "2311603": {
+  "name": "Overdrive",
+  "approved": true,
+  "profile": "machine"
+ },
+ "66927994": {
+  "name": "Oni Tank T-34",
+  "approved": true,
+  "profile": "machine"
+ },
+ "7892180": {
+  "name": "Psychic Kappa",
+  "approved": true,
+  "profile": "aquatic"
+ },
+ "10538007": {
+  "name": "Leogun",
+  "approved": true
+ },
+ "49888191": {
+  "name": "Garnecia Elefantis",
+  "approved": true
+ },
+ "77585513": {
+  "name": "Jinzo",
+  "approved": true,
+  "profile": "machine",
+  "floats": false
+ },
+ "64335805": {
+  "name": "Red-Eyes Black Metal Dragon",
+  "approved": true,
+  "profile": "dragon",
+  "floats": true
+ },
+ "73915052": {
+  "name": "Sheep Token",
+  "approved": true,
+  "profile": "small",
+  "height": 1.58
+ },
+ "33396948": {
+  "name": "Exodia the Forbidden One",
+  "approved": true,
+  "profile": "rock",
+  "floats": true,
+  "height": 3.6
+ },
+ "7902349": {
+  "name": "Left Arm of the Forbidden One",
+  "approved": true,
+  "profile": "rock",
+  "floats": true
+ },
+ "70903634": {
+  "name": "Right Arm of the Forbidden One",
+  "approved": true,
+  "profile": "rock",
+  "floats": true
+ },
+ "44519536": {
+  "name": "Left Leg of the Forbidden One",
+  "approved": true,
+  "profile": "rock"
+ },
+ "8124921": {
+  "name": "Right Leg of the Forbidden One",
+  "approved": true,
+  "profile": "rock"
+ }
+}
